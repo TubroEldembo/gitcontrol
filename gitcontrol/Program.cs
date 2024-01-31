@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Fernando");
+            Console.WriteLine("I a learning GIT");
         }
     }
 }
